@@ -13,4 +13,4 @@ Coding Dojos are a great way to achieve this camaraderie and concord. The idea i
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7026192865869406208/)
 
 
-[reference]: (https://t2informatik.de/en/smartpedia/coding-dojo/)
+[reference]: # (https://t2informatik.de/en/smartpedia/coding-dojo/)

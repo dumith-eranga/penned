@@ -47,5 +47,5 @@ if (invoice.isOverDue()) {
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7016429256566083584/)
 
 
-[fiddle]: (https://jsfiddle.net/84mtngjw/3/)
+[fiddle]: # (https://jsfiddle.net/84mtngjw/3/)
 
