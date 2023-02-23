@@ -1,6 +1,6 @@
 ---
 title: "Brownfield"
-date: 2023-02-01
+date: 2023-02-23
 ---
 
 Starting on a clean slate is a software developer's dream. That allows them to set up everything the way they want and establish the exact toolchains and workflows they desire. Despite many engineers sharing this fantasy, rarely do they get a chance to do so. This is a dream so vivid that usually such projects are called "green field" ones to symbolise the virgin ground upon which the things will be built.
