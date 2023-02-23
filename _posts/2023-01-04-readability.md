@@ -11,7 +11,7 @@ A junior may write :
 const dueDate = new Date(invoice.dueDate);
 const today = new Date();
 if (dueDate < today) {
-	// code for sending email
+    // code for sending email
 }
 ```
 
@@ -20,7 +20,7 @@ A senior #softwareengineer would write:
 ```js
 const today = new Date();
 if (invoice.getDueDate().isBefore(today)) {
-	// code for sending email
+    // code for sending email
 }
 ```
 
@@ -39,7 +39,7 @@ An actual code from a senior engineer would be like :
 
 ```js
 if (invoice.isOverDue()) {
-	// code for sending email
+    // code for sending email
 }
 ```
 

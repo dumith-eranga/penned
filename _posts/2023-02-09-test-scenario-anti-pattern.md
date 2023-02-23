@@ -28,16 +28,16 @@ One anti-pattern is having multiple test scenarios concealed as one. It can be q
 ```java
 @Test
 @Parameters({ 
-	"1, 2, 3", 
-	"-10, 30, 20", 
-	"15, -5, 10", 
-	"-5, -10, -15" })
+    "1, 2, 3", 
+    "-10, 30, 20", 
+    "15, -5, 10", 
+    "-5, -10, -15" })
 public void canAddPositiveNumbers(int a, int b, int expectedValue) {
-	if ((a < 0) || (b < 0)) {
-		expectException(addPositive(a, b));
-	} else {
-		assertEquals(expectedValue, addPositive(a, b));
-	}
+    if ((a < 0) || (b < 0)) {
+        expectException(addPositive(a, b));
+    } else {
+        assertEquals(expectedValue, addPositive(a, b));
+    }
 }
 ```
 

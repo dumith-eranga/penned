@@ -1,30 +1,30 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"wikilens.daily.directoryName": "_posts",
-		"wikilens.daily.titleFormat": "yyyy-mm-dd",
-		"workbench.colorCustomizations": {
-			"activityBar.activeBackground": "#5f0172",
-			"activityBar.activeBorder": "#000000",
-			"activityBar.background": "#5f0172",
-			"activityBar.foreground": "#e7e7e7",
-			"activityBar.inactiveForeground": "#e7e7e799",
-			"activityBarBadge.background": "#000000",
-			"activityBarBadge.foreground": "#e7e7e7",
-			"sash.hoverBorder": "#5f0172",
-			"statusBar.background": "#361c00",
-			"statusBar.foreground": "#e7e7e7",
-			"statusBarItem.hoverBackground": "#5f0172",
-			"statusBarItem.remoteBackground": "#361c00",
-			"statusBarItem.remoteForeground": "#e7e7e7",
-			"titleBar.activeBackground": "#361c00",
-			"titleBar.activeForeground": "#e7e7e7",
-			"titleBar.inactiveBackground": "#361c0099",
-			"titleBar.inactiveForeground": "#e7e7e799"
-		},
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "wikilens.daily.directoryName": "_posts",
+        "wikilens.daily.titleFormat": "yyyy-mm-dd",
+        "workbench.colorCustomizations": {
+            "activityBar.activeBackground": "#5f0172",
+            "activityBar.activeBorder": "#000000",
+            "activityBar.background": "#5f0172",
+            "activityBar.foreground": "#e7e7e7",
+            "activityBar.inactiveForeground": "#e7e7e799",
+            "activityBarBadge.background": "#000000",
+            "activityBarBadge.foreground": "#e7e7e7",
+            "sash.hoverBorder": "#5f0172",
+            "statusBar.background": "#361c00",
+            "statusBar.foreground": "#e7e7e7",
+            "statusBarItem.hoverBackground": "#5f0172",
+            "statusBarItem.remoteBackground": "#361c00",
+            "statusBarItem.remoteForeground": "#e7e7e7",
+            "titleBar.activeBackground": "#361c00",
+            "titleBar.activeForeground": "#e7e7e7",
+            "titleBar.inactiveBackground": "#361c0099",
+            "titleBar.inactiveForeground": "#e7e7e799"
+        },
+    }
 }

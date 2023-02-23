@@ -8,25 +8,25 @@ Say there is a requirement to keep track of the difference in a list of numbers 
 One way to get the work done would be to write the code below. It is straightforward to understand.
 ```java
 class SensorChecker {
-	public void notifyIfCritical(int sensorUnitId, SensorData newData) {
-		SensorData oldData = SensorData.getLastRecordFromDatabase(sensorUnitId);
-		if (this.isCritical(this.getDifference(newData, oldData))) {
-			// code to notify
-		}
-	}
+    public void notifyIfCritical(int sensorUnitId, SensorData newData) {
+        SensorData oldData = SensorData.getLastRecordFromDatabase(sensorUnitId);
+        if (this.isCritical(this.getDifference(newData, oldData))) {
+            // code to notify
+        }
+    }
 }
 ```
 
 However, a senior engineer would leverage the OOP paradigm to make the algorithm more intuitive. One such implementation could be as below.
 ```java
 class SensorChecker {
-	public void notifyIfCritical(int sensorUnitId, SensorData newData) {
-		SensorData oldData = SensorData.getLastRecordFromDatabase(sensorUnitId);
-		SensorDataDifference difference = newData.diff(oldData);
-		if (difference.isCritical()) {
-			// code to notify
-		}
-	}
+    public void notifyIfCritical(int sensorUnitId, SensorData newData) {
+        SensorData oldData = SensorData.getLastRecordFromDatabase(sensorUnitId);
+        SensorDataDifference difference = newData.diff(oldData);
+        if (difference.isCritical()) {
+            // code to notify
+        }
+    }
 }
 ```
 
