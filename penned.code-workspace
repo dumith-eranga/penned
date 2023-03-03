@@ -26,5 +26,15 @@
             "titleBar.inactiveBackground": "#361c0099",
             "titleBar.inactiveForeground": "#e7e7e799"
         },
+        "grammarly.config.suggestions.OxfordComma": true,
+        "grammarly.config.suggestions.PassiveVoice": true,
+        "grammarly.config.suggestions.UnnecessaryEllipses": true,
+        "grammarly.config.suggestions.StylisticFragments": true,
+        "grammarly.files.include": [
+            "**/readme.md",
+            "**/README.md",
+            "**/*.txt",
+            "**/*.md"
+        ],
     }
 }
