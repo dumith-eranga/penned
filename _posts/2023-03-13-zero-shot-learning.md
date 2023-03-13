@@ -15,3 +15,5 @@ It is an area where machines can excel over humans. While people tend to forget 
 
 ---
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7041069679183851520/)
+
+[reference]: # (https://en.wikipedia.org/wiki/Zero-shot_learning)
