@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2000-01-01
+date: YYYY-MM-DD
 ---
 
 {Content goes here}

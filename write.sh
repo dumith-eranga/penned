@@ -6,5 +6,5 @@ cd "${DIR}"
 DATE=$(date "+%Y-%m-%d")
 FILENAME="${DATE}-WIP.md"
 
-cp ./template.md "./pending/${FILENAME}"
+cp ./template.md "./_drafts/${FILENAME}"
 sed -i "s/YYYY-MM-DD/${DATE}/g" "./${FILENAME}"

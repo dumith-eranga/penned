@@ -2,3 +2,7 @@ theme: minima
 title: Penned
 author: Eranga Jayalatharachchi
 description: learnings converted to writing
+exclude:
+  - template.md
+  - WIP-*
+# - _drafts/   # excluded by default
