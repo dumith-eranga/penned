@@ -1,6 +1,6 @@
 ---
-title: ""
-date: YYYY-MM-DD
+title: "{TITLE}"
+date: {YYYY-MM-DD}
 ---
 
 {Content goes here}
