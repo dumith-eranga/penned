@@ -7,7 +7,7 @@ Arrange. Act. Assert
 - The Inability to Write Comprehensive Tests: It's impossible to write exhaustive tests that cover every possible scenario. Sometimes, bugs slip through the tests and end up breaking the code in production, causing frustration for developers. However, this is not an excuse to skip writing tests altogether. Instead, developers should aim to write comprehensive tests to cover the most critical use cases, and supplement them with manual testing and monitoring in production.
 - Fear of Learning a New Workflow: TDD requires a change in a developer's workflow, which can be daunting. It's essential to recognize that any change requires a learning curve and can be uncomfortable at first. However, investing time to learn TDD can lead to huge dividends in terms of code quality and productivity.
 
-
+pair programming
 
 unit testing vs TDD
 
