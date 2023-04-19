@@ -21,8 +21,6 @@ CQRS
 
 Architectural Runway
 
-UX vs DX
-
 XP
 
 ubiquitous language
