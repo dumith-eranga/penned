@@ -1,3 +1,51 @@
+Zero-shot prompting
+Identify the date or day mentioned in the given text and provide it as the output.
+Q: CorpConf on 11/4 A:
+
+- Identify the date or day mentioned in the given event description.
+- Determine the date or day from each input and provide the output accordingly as a single word or date.
+
+One-shot prompting
+A "whatpu" is a small, furry animal native to Tanzania. An example of a sentence that uses the word whatpu is:
+We were traveling in Africa and we saw these very cute whatpus.
+To do a "farduddle" means to jump up and down really fast. An example of a sentence that uses the word farduddle is:
+> When we won the game, we all started to farduddle in celebration.
+
+
+Few-shot prompting
+
+Identify the date or day mentioned in the given text and provide it as the output.
+Q: Dinner with Alice next Tuesday at Taco Bell.
+A: next Tuesday
+Q: 1:1 with Bob tomorrow at 10 AM.
+A: tomorrow
+Q: CorpConf on 11/4.
+A:
+
+
+This is awesome! // Negative
+This is bad! // Positive
+Wow that movie was rad! // Positive
+What a horrible show! //
+> Negative
+
+
+Chain of thought prompting
+Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now?
+A: The answer is 11.
+Q: A juggler can juggle 16 balls. Half of the balls are golf balls, and half of the golf balls are blue. How many blue golf balls are there?
+A:
+>  The anser is 8
+
+
+Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now?
+A: Roger started with 5 balls. 2 cans of 3 tennis balls each is 6 tennis balls. 5+6=11. The answer is 11.
+Q: A juggler can juggle 16 balls. Half of the balls are golf balls, and half of the golf balls are blue. How many blue golf balls are there?
+A:
+> The juggle can juggle 16 balls. Half of the balls are golf balls. So there are 16/2=8 golf balls. Half of the golf balls are blue. So thare are 8/2=4 blue golf balls. The answer is 4.
+
+
+
 Such trade-offs are made based on risks. When the risk of data loss is critical, for example as with a health-care solution, then multiple redundancy mechanisms are brought into the solution. In a different instance where the risk of not having some data immediately available in the system is relatively low, like with a reporting system, the architecture would encourage the use of eventual consistency.
 
 arrange, act, assert
@@ -6,6 +54,17 @@ Arrange. Act. Assert
 - The Perceived Overhead of Writing Tests: Many opponents to TDD argue that spending time writing tests upfront negatively impacts productivity. However, numerous studies have shown that this is not true. Investing time in writing quality tests upfront can save developers days, or even weeks, of debugging and refactoring in the future.
 - The Inability to Write Comprehensive Tests: It's impossible to write exhaustive tests that cover every possible scenario. Sometimes, bugs slip through the tests and end up breaking the code in production, causing frustration for developers. However, this is not an excuse to skip writing tests altogether. Instead, developers should aim to write comprehensive tests to cover the most critical use cases, and supplement them with manual testing and monitoring in production.
 - Fear of Learning a New Workflow: TDD requires a change in a developer's workflow, which can be daunting. It's essential to recognize that any change requires a learning curve and can be uncomfortable at first. However, investing time to learn TDD can lead to huge dividends in terms of code quality and productivity.
+
+
+
+---
+
+A common scenario when you get a glimpse into medium sized businesses. They always have resource constraints can’t get enough people onboard. They always struggle to compete with the big tech giants when hiring.
+
+- https://medium.com/@jankammerath/how-kubernetes-and-kafka-will-get-you-fired-a6dccbd36c77
+
+---
+
 
 pair programming
 
