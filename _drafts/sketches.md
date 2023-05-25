@@ -1,3 +1,8 @@
+Guard Clause
+- https://en.m.wikipedia.org/wiki/Guard_(computer_science)
+- https://careers.per-angusta.com/blog/common-mistakes-with-guard-clause-pattern/
+
+
 Zero-shot prompting
 Identify the date or day mentioned in the given text and provide it as the output.
 Q: CorpConf on 11/4 A:
