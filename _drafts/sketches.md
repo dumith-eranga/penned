@@ -3,6 +3,18 @@ Guard Clause
 - https://careers.per-angusta.com/blog/common-mistakes-with-guard-clause-pattern/
 
 
+Generative AI
+- higher-level deterministic reasoning
+- the reverse logical reasoning
+- https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/
+- https://www.nature.com/articles/d41586-023-01883-4
+
+
+Parameter Objects for Extensibility
+- https://bitbucket.org/vetstoria/platform/pull-requests/6595
+
+
+
 Zero-shot prompting
 Identify the date or day mentioned in the given text and provide it as the output.
 Q: CorpConf on 11/4 A:
