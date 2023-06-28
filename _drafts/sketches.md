@@ -1,3 +1,6 @@
+Tech Stack
+- https://docs.google.com/document/d/1yFSHaL5Yw5qyWJTtPK7q6r1VjwQycQlOcegEA_c0mW4/edit
+
 Guard Clause
 - https://en.m.wikipedia.org/wiki/Guard_(computer_science)
 - https://careers.per-angusta.com/blog/common-mistakes-with-guard-clause-pattern/

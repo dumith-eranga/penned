@@ -1,6 +1,7 @@
 # Parameter Object Refactoring
 
 - PR : https://bitbucket.org/vetstoria/platform/pull-requests/6595
+- fiddle : https://onecompiler.com/php/3zbfwzzt2
 
 ```php
 abstract class A
