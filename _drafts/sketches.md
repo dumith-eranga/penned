@@ -17,6 +17,9 @@ Parameter Objects for Extensibility
 - https://bitbucket.org/vetstoria/platform/pull-requests/6595
 
 
+A senior engineer is not an engineer with x number of years of experience.
+
+Tests should not contain "if"s
 
 Zero-shot prompting
 Identify the date or day mentioned in the given text and provide it as the output.
