@@ -1,3 +1,6 @@
+Pre-mortem
+- https://en.wikipedia.org/wiki/Pre-mortem
+
 Tech Stack
 - https://docs.google.com/document/d/1yFSHaL5Yw5qyWJTtPK7q6r1VjwQycQlOcegEA_c0mW4/edit
 
@@ -97,7 +100,7 @@ head-fakes - the best form : tech someone else to learn
 
 monorepo
 
-CQRS 
+CQRS
 
 12-factor app
 
@@ -124,7 +127,7 @@ LinkedIn SRE
 
 DRY is about knowledge - not code
 
-No one cares about your architecture.   
+No one cares about your architecture.
     The user's don't see it. The only see the capabilities the architecture gives them - Is it performant, Does it have less down-time, easily maintainable etc.
     The capabilities come from how the system is put together.
 
@@ -143,7 +146,7 @@ Electronic vs Quantum computing
 It is more so for software as the separation of hardware and software happened to facilitate quicker change.
  - enable the functionality to be changed without the need to change the underlying electronics.
 
-(#opinion) Data is not an asset but a liability 
+(#opinion) Data is not an asset but a liability
 - lose its value as soon as it gets leaked
 - GDPR / CCPA
 - need to keep under lock and key
@@ -209,7 +212,7 @@ The ironic thing is all these mistakes are non-technical. That means there are m
 ## Anti Patterns
 1. ITM - Initialize Then Modify
     - https://youtu.be/KTIl1MugsSY?t=636
-    
+
 
 ## My Legacy
 1. The product I built (and the company around it)
