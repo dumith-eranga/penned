@@ -1,6 +1,8 @@
 Pre-mortem
 - https://en.wikipedia.org/wiki/Pre-mortem
 
+Richardson Maturity Model
+
 Tech Stack
 - https://docs.google.com/document/d/1yFSHaL5Yw5qyWJTtPK7q6r1VjwQycQlOcegEA_c0mW4/edit
 
@@ -21,6 +23,13 @@ Parameter Objects for Extensibility
 
 
 A senior engineer is not an engineer with x number of years of experience.
+
+
+https://www.linkedin.com/posts/alexander-chiou_techcareergrowth-softwareengineering-promotion-activity-7092283517820174336-EtzY/
+The classic sign of a weak software engineer is that they need to be told exactly what to work on.
+A big reason why engineers are paid so much is because they are able to deal with ambiguous problems. This includes overall project direction.
+
+
 
 Tests should not contain "if"s
 
