@@ -18,4 +18,8 @@ One of the important lessons I learned over the years is that ...
 > _Unless you know the artist well, do not lose the diamonds in the rough by judging their work with only the first few strokes of the brush or the strikes of chords._
 
 
-#techleadership #hiring #softwareengineering
+#techleadership
+#hiring
+#softwareengineering
+
+---
