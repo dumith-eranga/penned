@@ -1,6 +1,6 @@
 ---
 title: "Unknown Artist"
-date: 2024-012-12
+date: 2024-12-12
 ---
 
 An engineering candidate we interview is like a new painter we are seeing for the first time. They may start their piece by painting the background first or they may start with the foreground. It would be too hasty to fully appreciate the work only by looking at the work-in-progress.
