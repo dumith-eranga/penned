@@ -1,7 +1,7 @@
 theme: minima
 title: Penned
 author: Eranga Jayalatharachchi
-description: learnings converted to writing
+description: ideas, anecdotes, and nuggets of wisdom on building software and teams
 exclude:
   - template.md
   - WIP-*
