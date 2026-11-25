@@ -1,9 +1,9 @@
 ---
 title: "3 Layers of AI"
 date: 2026-11-25
-layout: post
-image: /assets/images/2026-11-25-model-harness-agent.jpeg
 ---
+
+![Abstract representation of Model, Harness, and Agent]({{ '/assets/images/2026-11-25-model-harness-agent.jpeg' | relative_url }})
 
 Model, Harness, and Agent are three words that encounter often in the context of Artificial Intelligence. Understanding the differences and how they relate helps one become a better user of AI.
 
@@ -24,4 +24,3 @@ Now, the passenger only need to state the intent - destination in this case. The
 
 
 Each layer powers the layer above and is dependent on the layer below.
-
