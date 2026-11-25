@@ -5,4 +5,5 @@ description: ideas, anecdotes, and nuggets of wisdom on building software and te
 exclude:
   - template.md
   - WIP-*
+  - _addenda/
 # - _drafts/   # excluded by default
