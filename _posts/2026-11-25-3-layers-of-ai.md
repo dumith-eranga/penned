@@ -1,6 +1,7 @@
 ---
 title: "3 Layers of AI"
 date: 2026-11-25
+layout: post
 image: /assets/images/2026-11-25-model-harness-agent.jpeg
 ---
 
